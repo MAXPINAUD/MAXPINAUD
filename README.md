@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maximilien Pinaud
 - 👀 I’m interested in Electrical Engineering, STM32 microcontrollers, Machine Learning Data Science, VHDL and FPGAs
-- 🌱 I’m currently learning VHDL
+- 🌱 I’m currently furthering my VHDL skills
 - 📫 How to reach me maximilien.pinaud@icloud.com
 
 <!---
